@@ -1,0 +1,3 @@
+[submodule "assignment1/soa-assignment1"]
+	path = assignment1/soa-assignment1
+	url = https://github.com/ggardiles/soa-assignment1
