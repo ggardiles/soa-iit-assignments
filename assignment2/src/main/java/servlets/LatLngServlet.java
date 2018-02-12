@@ -1,6 +1,6 @@
 package servlets;
 
-import com.google.code.geocoder.Geocoder;
+import  com.google.code.geocoder.Geocoder;
 import com.google.code.geocoder.GeocoderRequestBuilder;
 import com.google.code.geocoder.model.*;
 import com.google.gson.Gson;
