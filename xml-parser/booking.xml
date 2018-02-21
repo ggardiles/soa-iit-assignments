@@ -1,0 +1,30 @@
+<?xml version = "1.0"?>
+<class>
+    <booking>
+        <id>1</id>
+        <start>2018-01-17</start>
+        <end>2018-01-18</end>
+        <cost>85</cost>
+    </booking>
+
+    <booking>
+        <id>2</id>
+        <start>2018-01-18</start>
+        <end>2018-01-19</end>
+        <cost>89</cost>
+    </booking>
+
+    <booking>
+        <id>3</id>
+        <start>2018-01-15</start>
+        <end>2018-01-21</end>
+        <cost>168</cost>
+    </booking>
+
+    <booking>
+        <id>4</id>
+        <start>2018-01-13</start>
+        <end>2018-01-16</end>
+        <cost>114</cost>
+    </booking>
+</class>

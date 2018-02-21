@@ -1,0 +1,24 @@
+<?xml version = "1.0"?>
+<class>
+    <vehicle>
+        <id>1</id>
+        <make>Mercedes Benz</make>
+        <model>C220</model>
+        <year>2010</year>
+        <gas>1/1</gas>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <make>Toyota</make>
+        <model>Auris</model>
+        <year>2008</year>
+        <gas>1/2</gas>
+    </vehicle>
+    <vehicle>
+        <id>3</id>
+        <make>Audi</make>
+        <model>A4</model>
+        <year>2015</year>
+        <gas>3/4</gas>
+    </vehicle>
+</class>

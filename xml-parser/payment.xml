@@ -1,0 +1,35 @@
+<?xml version = "1.0"?>
+<class>
+    <payment>
+        <id>1</id>
+        <cardNo>11111111111</cardNo>
+        <cvv>111</cvv>
+        <expiration>20/01</expiration>
+        <paymentDate>2018-02-18</paymentDate>
+        <amount>115</amount>
+        <approvalCode>Xyhdjksbfaf</approvalCode>
+        <status>accepted</status>
+    </payment>
+
+    <payment>
+        <id>2</id>
+        <cardNo>22222222222</cardNo>
+        <cvv>222</cvv>
+        <expiration>20/01</expiration>
+        <paymentDate>2018-02-19</paymentDate>
+        <amount>85</amount>
+        <approvalCode>skalfjafKd</approvalCode>
+        <status>accepted</status>
+    </payment>
+
+    <payment>
+        <id>3</id>
+        <cardNo>22222222222</cardNo>
+        <cvv>222</cvv>
+        <expiration>20/01</expiration>
+        <paymentDate>2018-02-21</paymentDate>
+        <amount>805</amount>
+        <approvalCode>sSDKASjafKd</approvalCode>
+        <status>dennied</status>
+    </payment>
+</class>
